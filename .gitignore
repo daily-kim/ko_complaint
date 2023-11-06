@@ -1,0 +1,10 @@
+/*.csv
+*.xlsx
+
+/data/data.csv
+
+*.pt
+*.pth
+
+*.out
+# Ignore log and temp files.
